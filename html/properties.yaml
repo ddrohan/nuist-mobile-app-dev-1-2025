@@ -1,0 +1,26 @@
+credits        : Dave Drohan SETU, Gongzhe Qiao (乔塨哲) NUIST (Sept. 2025)
+# slack          : https://setu.enterprise.slack.com/archives/C07J7RS966T
+# moodle         : https://moodle.wit.ie/course/view.php?id=185752&section=12
+# youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyAD1tySCY5jOc80YrnLVhVB
+#parent         : course/wit-hdip-comp-sci-2023.netlify.app
+hideVideos     : false
+ignorepin      : 2020
+auth           : 1
+whitelist      : 1
+ignore         :
+  - src
+  - res
+  # - topic-00-module-overview
+  # - topic-01-kotlin-01
+  # - topic-02-kotlin-02
+  - topic-03-kotlin-03
+  - topic-04-kotlin-04
+  - topic-05-android-overview
+  - topic-06-activities
+  - topic-07-adapters
+  - topic-08-interfaces
+  - topic-09-images
+  - topic-10-maps
+  - topic-11-persistence
+  - topic-12-layouts
+  - topic-13-sensors
